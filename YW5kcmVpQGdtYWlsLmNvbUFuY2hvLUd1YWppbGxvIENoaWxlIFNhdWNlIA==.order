@@ -1,0 +1,5 @@
+Order{orderID=4616583,
+client=Client{email='andrei@gmail.com', password='Soricel123*'},
+items=[Product{name='Ancho-Guajillo Chile Sauce ', rating=4.375, price=43.0, calories=2, protein=1, fat=478, sodium=35}, Product{name='Pineapple Salsa ', rating=4.375, price=55.0, calories=1, protein=0, fat=3, sodium=44}, Product{name='Aji Amarillo-Pineapple Salsa ', rating=4.375, price=60.0, calories=1, protein=0, fat=5, sodium=40}, Product{name='Cinnamon Chocolate Cigarettes ', rating=3.75, price=72.0, calories=1, protein=4, fat=32, sodium=26}, Product{name='3-Ingredient Peanut Butter Cookies ', rating=5.0, price=100.0, calories=3, protein=6, fat=5, sodium=74}],
+orderDate=2022-05-25T17:24:02.847062100,
+totalPrice=330}

@@ -1,0 +1,5 @@
+Order{orderID=2505423,
+client=Client{email='andrei@gmail.com', password='Soricel123*'},
+items=[Product{name='Hershey's Perfectly Chocolate Chocolate Cake ', rating=4.375, price=6145.0, calories=68, protein=213, fat=5661, sodium=15}, Product{name='Brown on Blonde Blondies ', rating=0.0, price=321.0, calories=5, protein=18, fat=120, sodium=96}, Product{name='Bloody Mary Tomato Toast with Celery and Horseradish ', rating=5.0, price=189.0, calories=2, protein=16, fat=517, sodium=16}, Product{name='Blanketed Eggplant ', rating=3.75, price=1386.0, calories=105, protein=98, fat=578, sodium=88}],
+orderDate=2022-05-25T17:57:03.173483400,
+totalPrice=8041}

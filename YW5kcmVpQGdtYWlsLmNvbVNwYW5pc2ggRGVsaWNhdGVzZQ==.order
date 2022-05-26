@@ -1,0 +1,5 @@
+Order{orderID=6530170,
+client=Client{email='andrei@gmail.com', password='Soricel123*'},
+items=[CompositeProduct{name='Spanish Delicatese', menuItemList=[Product{name='Zucchini with Sour Cream and Dill ', rating=4.375, price=113.0, calories=2, protein=9, fat=31, sodium=95}, Product{name='Barbecued Shrimp ', rating=3.75, price=23.0, calories=4, protein=0, fat=205, sodium=71}]}],
+orderDate=2022-05-25T20:37:39.672285800,
+totalPrice=136}

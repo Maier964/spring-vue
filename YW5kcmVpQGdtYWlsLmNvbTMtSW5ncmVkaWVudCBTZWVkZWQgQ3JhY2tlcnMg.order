@@ -1,0 +1,5 @@
+Order{orderID=527186,
+client=Client{email='andrei@gmail.com', password='Soricel123*'},
+items=[Product{name='3-Ingredient Seeded Crackers ', rating=3.75, price=33.0, calories=1, protein=2, fat=40, sodium=51}, Product{name='3-Ingredient Hazelnut Cookies ', rating=0.0, price=58.0, calories=1, protein=3, fat=15, sodium=88}],
+orderDate=2022-05-25T17:24:56.582040,
+totalPrice=91}
